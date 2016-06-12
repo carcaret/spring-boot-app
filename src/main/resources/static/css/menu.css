@@ -1,0 +1,29 @@
+.panel-title {
+	font-size: 13px;
+}
+
+.wrapper {
+	text-align: center;
+}
+
+.wrapper ul {
+	list-style-type: none;
+	display: inline-block;
+	margin: 0;
+	padding: 35px 0;
+	/* For IE, the outcast */
+	zoom: 1;
+	*display: inline;
+}
+
+.wrapper ul li {
+	padding: 15px 0px;
+}
+
+.wrapper a {
+	width: 200px;
+}
+
+.wrapper a span {
+	font-size: 13px;
+}
